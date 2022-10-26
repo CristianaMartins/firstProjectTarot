@@ -1,0 +1,13 @@
+html {
+  background: rgba(20, 52, 89, 1);
+  background-image: url(./bannerTop.png);
+  background-position: 89% 0%;
+  background-repeat: no-repeat;
+  background-size: 155vw 100vh;
+  width: 100vw;
+  height: 100vh;
+}
+.deck-image {
+  width: 200px;
+  height: 250px;
+}
