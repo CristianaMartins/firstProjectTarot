@@ -10,7 +10,9 @@ html {
 .deck-image {
   width: 200px;
   height: 250px;
+  cursor: pointer;
 }
+
 .cell {
   /* background-color: rgba(255, 255, 255, 0.178);
   border: 2px solid white; */
