@@ -11,3 +11,33 @@ html {
   width: 200px;
   height: 250px;
 }
+.cell {
+  /* background-color: rgba(255, 255, 255, 0.178);
+  border: 2px solid white; */
+}
+.centered {
+  justify-self: center;
+  align-self: center;
+}
+.container {
+  display: grid;
+  grid-template-rows: 10% 45% 45%;
+  height: 100%;
+  margin-inline: 10%;
+}
+.two-columns {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+.open-space-for-the-card {
+  background-color: rgba(46, 83, 116, 0.199);
+  border: 2px dashed black;
+  border-radius: 10px;
+  width: 200px;
+  height: 250px;
+}
+
+h1 {
+  color: orange;
+  font-family: "Gloria Hallelujah", cursive;
+}
