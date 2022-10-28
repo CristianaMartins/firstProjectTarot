@@ -1,7 +1,7 @@
-The web should have a deck.
-The deck should have 78 cards.
-The deck must have a click button.
-When someone click at the button of the deck, the program should give one random card from the 78.
-The random card that the program generates should appear and give the general meaning of the car.
-Find images of the Tarot cards and the meaning associated of each card.
-The web should have a title :"Make a question for yourself and Click on the Deck to know the you luck for today!".
+X - The web should have a deck.
+X -The deck should have 78 cards.
+X -The deck must have a click button.
+X -When someone click at the button of the deck, the program should give one random card from the 78.
+X -The random card that the program generates should appear and give the general meaning of the card.
+X -Find images of the Tarot cards and the meaning associated of each card.
+X -The web should have a title :"Make a question for yourself! Now Click on the Deck to know the you luck for today!".
