@@ -8,14 +8,18 @@ html {
   height: 100vh;
 }
 .deck-image {
-  width: 200px;
-  height: 250px;
+  width: 250px;
+  height: 300px;
   cursor: pointer;
+}
+.card-image {
+  width: 200px;
+  height: 300px;
 }
 
 .cell {
   /* background-color: rgba(255, 255, 255, 0.178);
-  border: 2px solid white; */
+  border: 2px solid white;*/
 }
 .centered {
   justify-self: center;
@@ -23,8 +27,8 @@ html {
 }
 .container {
   display: grid;
-  grid-template-rows: 10% 45% 45%;
-  height: 100%;
+  grid-template-rows: 10% 60% 30%;
+  height: 95vh;
   margin-inline: 10%;
 }
 .two-columns {
@@ -36,10 +40,24 @@ html {
   border: 2px dashed black;
   border-radius: 10px;
   width: 200px;
-  height: 250px;
+  height: 300px;
 }
-
+.open-space-for-the-caption {
+  background-color: rgba(46, 83, 116, 0.199);
+  border: 2px dashed black;
+  border-radius: 10px;
+  width: 100%;
+  height: 100%;
+}
 h1 {
   color: orange;
+  font-family: "Gloria Hallelujah", cursive;
+}
+h3 {
+  color: orange;
+  font-family: "Gloria Hallelujah", cursive;
+}
+h4 {
+  color: rgb(255, 202, 103);
   font-family: "Gloria Hallelujah", cursive;
 }
